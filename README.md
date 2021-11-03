@@ -1,4 +1,4 @@
-### https://h3ic.github.io/
+### h3ic.github.io
 
 <!--
 **h3ic/h3ic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
